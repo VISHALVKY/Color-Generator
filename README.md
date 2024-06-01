@@ -1,1 +1,1 @@
-#Color Generator
+<h2>Color Generator</h2>
